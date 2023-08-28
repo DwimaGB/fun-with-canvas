@@ -1,1 +1,0 @@
-# Small canvas effects
